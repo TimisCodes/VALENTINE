@@ -55,15 +55,15 @@ const ValentineProposal: React.FC = () => {
         </div>
 
         {/* Main headline */}
-        <h1 className="font-pacifico text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-valentine-gradient mb-2 leading-tight drop-shadow-sm">
+        <h1 className="font-pacifico text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-valentine-gradient mb-2 leading-tight drop-shadow-sm px-4 sm:px-8">
           Will You Be
         </h1>
-        <h1 className="font-pacifico text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-valentine-gradient mb-6 leading-tight drop-shadow-sm">
-          My Valentine?
+        <h1 className="font-pacifico text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-valentine-gradient mb-12 leading-tight drop-shadow-sm px-4 sm:px-8">
+          My Valentine, Seyi?
         </h1>
 
         {/* Subtitle with heart */}
-        <p className="font-quicksand text-lg sm:text-xl text-muted-foreground mb-2 flex items-center justify-center gap-2">
+        <p className="font-quicksand text-lg sm:text-xl text-muted-foreground mb-8 flex items-center justify-center gap-2">
           <span className="animate-pulse-heart">💘</span>
           <span>Please say yes...</span>
           <span className="animate-pulse-heart">💘</span>

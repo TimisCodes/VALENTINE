@@ -35,6 +35,10 @@ const CelebrationScreen: React.FC = () => {
         <p className="font-quicksand text-lg sm:text-xl text-muted-foreground">
           You've made me the happiest person! 🥰
         </p>
+
+        <p className="font-pacifico text-4xl sm:text-5xl md:text-6xl text-valentine-gradient mt-6 drop-shadow-lg">
+          I LOVE YOU
+        </p>
         
         {/* Floating hearts at bottom */}
         <div className="mt-8 flex justify-center gap-4 text-3xl">
