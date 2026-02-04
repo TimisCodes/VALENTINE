@@ -59,8 +59,9 @@ const ValentineProposal: React.FC = () => {
           Will You Be
         </h1>
         <h1 className="font-pacifico text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-valentine-gradient mb-12 leading-tight drop-shadow-sm px-4 sm:px-8">
-          My Valentine, CICI?
+          My Valentine, KAY D?
         </h1>
+        <h3> From TIMI 😂</h3>
 
        
 
