@@ -62,12 +62,7 @@ const ValentineProposal: React.FC = () => {
           My Valentine, Seyi?
         </h1>
 
-        {/* Subtitle with heart */}
-        <p className="font-quicksand text-lg sm:text-xl text-muted-foreground mb-8 flex items-center justify-center gap-2">
-          <span className="animate-pulse-heart">💘</span>
-          <span>Please say yes...</span>
-          <span className="animate-pulse-heart">💘</span>
-        </p>
+       
 
         {/* Buttons */}
         <ValentineButtons
